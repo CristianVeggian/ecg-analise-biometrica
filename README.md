@@ -5,8 +5,11 @@ Este repositório contém os arquivos, scripts e dataset utilizados no desenvolv
 ## 📂 Estrutura do Repositório
 
 📁 datasets/ → Conjunto de dados brutos e processados
+
 📁 scripts/ → Scripts Python para pré-processamento e extração de características
+
 📁 orange/ → Arquivos .ows com fluxos do Orange (clusterização e classificação)
+
 📄 README.md → Este arquivo
 
 ## ⚙️ Tecnologias utilizadas
