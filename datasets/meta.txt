@@ -1,0 +1,182 @@
+P1
+Masculino
+O+
+1,78m
+90 kg
+44 anos
+Sem problemas cardíacos
+P2
+Masculino
+A+
+1,74m
+73 kg
+63 anos
+Hipertensão e arritmia
+P3
+Masculino
+B+
+1,70m
+80 kg
+39 anos
+Sem problemas cardíacos, mão esquerda amputada
+P4
+Masculino
+AB+
+1,83m
+83 kg
+28 anos
+Sem problemas cardíacos
+P5
+Masculino
+A-
+1,76m
+79 kg
+24 anos
+Sem problemas
+P6
+Masculino
+O+
+1,83m
+70 kg
+20 anos
+Sem problemas cardíacos (com histórico na família)
+P7
+Masculino
+B+
+1,69m
+75 kg
+50 anos
+Sem problemas cardíacos (mãe é hipertensa)
+P8
+Masculino
+Não sabe
+1,85m
+92 kg
+22 anos
+sem problemas cardíacos (família com histórico de hipertensão)
+P9
+Masculino
+O-
+1,71m
+74 kg
+24 anos
+sem problemas cardíacos
+P10
+Feminino
+?
+1,58m
+82 kg
+20 anos
+sem problemas cardíacos (pai infarto)
+P11
+Masculino
+?
+1,75m
+73 kg
+19 anos 
+Sem problemas cardíacos
+P12
+Masculino
+AB+
+1,75m
+78 kg
+19 anos 
+Sem problemas cardíacos (na família tem)
+P13
+Masculino
+A+
+1,77m
+60 kg
+19 anos
+Sem problemas cardíacos
+P14
+Masculino
+?
+1,75m
+68 kg
+19 anos 
+Sem problemas cardíacos (pai pressão alta, mãe pressão baixa)
+P15
+Feminino
+?
+1,76m
+72 kg
+22 anos
+Sem problemas cardíacos
+P16
+Masculino
+A+
+1,73m
+65 kg
+21 anos
+Sem problemas cardíacos (pressão alta na família)
+P17
+Masculino
+O+
+1,71m
+55 kg
+20 anos
+Sem problemas cardíacos 
+P18
+Masculino
+O+
+1,70m
+65 kg
+19 anos
+Sem problemas cardíacos
+P19
+Feminino
+A-
+1,69m
+72 kg
+23 anos
+Sem problemas cardíacos (Síndrome vaso-vagal, avô paterno faleceu de infarto)
+P20
+Masculino
+?
+1,69m
+64 kg
+32 anos
+Sem problemas cardíacos
+P21
+Feminino
+A+
+1,64m
+57 kg
+30 anos
+Sem problemas cardíacos (já teve histórico de pressão alta)
+P22
+Feminino
+AB+
+1,70m
+57 kg
+23 anos
+Sem problemas cardíacos
+P23
+Masculino
+O-
+1,74m
+67 kg
+25 anos
+Sem problemas cardíacos (Anemia falciforme)
+P24
+Masculino
+O+
+1,71m
+65 kg
+25 anos
+Sem problemas cardíacos
+P25
+Masculino
+O+
+1,92m
+120 kg
+19 anos
+Sem problemas cardíacos (No limite da pressão alta, pai possui ponte coronária (genético))
+P26
+Masculino
+B+
+1,80m
+74 kg
+18 anos
+Febre reumática

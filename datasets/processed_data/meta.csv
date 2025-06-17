@@ -1,0 +1,27 @@
+ID,Sexo,Tipo Sanguineo,Altura,Peso,Idade,Condições
+1,Masculino,O+,1.78,90.0,44,Sem problemas cardíacos
+2,Masculino,A+,1.74,73.0,63,Hipertensão e arritmia
+3,Masculino,B+,1.7,80.0,39,"Sem problemas cardíacos, mão esquerda amputada"
+4,Masculino,AB+,1.83,83.0,28,Sem problemas cardíacos
+5,Masculino,A-,1.76,79.0,24,Sem problemas
+6,Masculino,O+,1.83,70.0,20,Sem problemas cardíacos (com histórico na família)
+7,Masculino,B+,1.69,75.0,50,Sem problemas cardíacos (mãe é hipertensa)
+8,Masculino,Não sabe,1.85,92.0,22,sem problemas cardíacos (família com histórico de hipertensão)
+9,Masculino,O-,1.71,74.0,24,sem problemas cardíacos
+10,Feminino,Não sabe,1.58,82.0,20,sem problemas cardíacos (pai infarto)
+11,Masculino,Não sabe,1.75,73.0,19,Sem problemas cardíacos
+12,Masculino,AB+,1.75,78.0,19,Sem problemas cardíacos (na família tem)
+13,Masculino,A+,1.77,60.0,19,Sem problemas cardíacos
+14,Masculino,Não sabe,1.75,68.0,19,"Sem problemas cardíacos (pai pressão alta, mãe pressão baixa)"
+15,Feminino,Não sabe,1.76,72.0,22,Sem problemas cardíacos
+16,Masculino,A+,1.73,65.0,21,Sem problemas cardíacos (pressão alta na família)
+17,Masculino,O+,1.71,55.0,20,Sem problemas cardíacos
+18,Masculino,O+,1.7,65.0,19,Sem problemas cardíacos
+19,Feminino,A-,1.69,72.0,23,"Sem problemas cardíacos (Síndrome vaso-vagal, avô paterno faleceu de infarto)"
+20,Masculino,Não sabe,1.69,64.0,32,Sem problemas cardíacos
+21,Feminino,A+,1.64,57.0,30,Sem problemas cardíacos (já teve histórico de pressão alta)
+22,Feminino,AB+,1.7,57.0,23,Sem problemas cardíacos
+23,Masculino,O-,1.74,67.0,25,Sem problemas cardíacos (Anemia falciforme)
+24,Masculino,O+,1.71,65.0,25,Sem problemas cardíacos
+25,Masculino,O+,1.92,120.0,19,"Sem problemas cardíacos (No limite da pressão alta, pai possui ponte coronária (genético))"
+26,Masculino,B+,1.8,74.0,18,Febre reumática
