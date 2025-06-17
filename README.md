@@ -50,7 +50,11 @@ Abra os arquivos .ows na interface do Orange para reproduzir os experimentos de 
 Este projeto está licenciado sob a licença MIT — consulte o arquivo LICENSE para mais detalhes.
 
 📧 Contato
+
 Cristian Veggian Matias
+
 cristianveggian@gmail.com
+
 Lattes: http://lattes.cnpq.br/4453425163468096
+
 Orcid: https://orcid.org/0009-0008-1281-3099
