@@ -4,7 +4,9 @@ Este repositório contém os arquivos, scripts e dataset utilizados no desenvolv
 
 ## 📂 Estrutura do Repositório
 
-📁 datasets/ → Conjunto de dados brutos e processados
+📁 datasets/processed_data → Conjunto de dados já processados (features.csv)
+📁 datasets/raw_data → Conjunto de dados não processados
+📄 datasets/meta.txt → arquivo.txt com metadados
 
 📁 scripts/ → Scripts Python para pré-processamento e extração de características
 
